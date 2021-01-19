@@ -1,7 +1,0 @@
-D:\My projeckts\Chat\Chat_WCF\bin\Debug\Chat_WCF.dll.config
-D:\My projeckts\Chat\Chat_WCF\bin\Debug\Chat_WCF.dll
-D:\My projeckts\Chat\Chat_WCF\bin\Debug\Chat_WCF.pdb
-D:\My projeckts\Chat\Chat_WCF\obj\Debug\Chat_WCF.csprojAssemblyReference.cache
-D:\My projeckts\Chat\Chat_WCF\obj\Debug\Chat_WCF.csproj.CoreCompileInputs.cache
-D:\My projeckts\Chat\Chat_WCF\obj\Debug\Chat_WCF.dll
-D:\My projeckts\Chat\Chat_WCF\obj\Debug\Chat_WCF.pdb
